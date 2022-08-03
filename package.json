@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fusioncharts": "^3.18.0",
+    "react-fusioncharts": "^4.0.0",
+    "react-google-charts": "^4.0.0",
+    "react-papaparse": "^4.0.2",
+    "react-pie3d": "^1.0.0"
+  }
+}
